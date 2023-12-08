@@ -1,0 +1,65 @@
+2023/12/08 13:56:23 AzcopyVersion  10.22.0
+2023/12/08 13:56:23 OS-Environment  linux
+2023/12/08 13:56:23 OS-Architecture  amd64
+2023/12/08 13:56:23 Log times are in UTC. Local time is 8 Dec 2023 13:56:23
+2023/12/08 13:56:23 ISO 8601 START TIME: to copy files that changed before or after this job started, use the parameter --include-before=2023-12-08T13:56:18Z or --include-after=2023-12-08T13:56:18Z
+2023/12/08 13:56:23 Any empty folders will not be processed, because source and/or destination doesn't have full folder support
+2023/12/08 13:56:24 Job-Command cp https://publicgit.blob.core.windows.net/data/tsv_data/TaxVQAv2/test.caption.tsv /tmp/publicgit/data/TaxVQAv2/test.caption.tsv 
+2023/12/08 13:56:24 Number of CPUs: 8
+2023/12/08 13:56:24 Max file buffer RAM 4.000 GB
+2023/12/08 13:56:24 Max concurrent network operations: 128 (Based on number of CPUs. Set AZCOPY_CONCURRENCY_VALUE environment variable to override)
+2023/12/08 13:56:24 Check CPU usage when dynamically tuning concurrency: true (Based on hard-coded default. Set AZCOPY_TUNE_TO_CPU environment variable to true or false override)
+2023/12/08 13:56:24 Max concurrent transfer initiation routines: 64 (Based on hard-coded default. Set AZCOPY_CONCURRENT_FILES environment variable to override)
+2023/12/08 13:56:24 Max enumeration routines: 16 (Based on hard-coded default. Set AZCOPY_CONCURRENT_SCAN environment variable to override)
+2023/12/08 13:56:24 Parallelize getting file properties (file.Stat): false (Based on AZCOPY_PARALLEL_STAT_FILES environment variable)
+2023/12/08 13:56:24 Max open files when downloading: 1048047 (auto-computed)
+2023/12/08 13:56:24 Final job part has been created
+2023/12/08 13:56:24 Final job part has been scheduled
+2023/12/08 13:56:24 ==> REQUEST/RESPONSE (Try=1/160.16937ms, OpTime=423.27596ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2FTaxVQAv2%2Ftest.caption.tsv
+   X-Ms-Request-Id: [f7634b6e-a01e-0050-24de-296fcb000000]
+
+2023/12/08 13:56:24 ==> REQUEST/RESPONSE (Try=1/180.341181ms, OpTime=439.676423ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2FTaxVQAv2%2Ftest.caption.tsv
+   X-Ms-Request-Id: [c7fc73e1-e01e-0041-7dde-29f57f000000]
+
+2023/12/08 13:56:24 ==> REQUEST/RESPONSE (Try=1/189.713294ms, OpTime=457.360518ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2FTaxVQAv2%2Ftest.caption.tsv
+   X-Ms-Request-Id: [389a0453-801e-000a-15de-29092c000000]
+
+2023/12/08 13:56:24 ==> REQUEST/RESPONSE (Try=1/200.872662ms, OpTime=467.359729ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2FTaxVQAv2%2Ftest.caption.tsv
+   X-Ms-Request-Id: [b9b1d892-f01e-0072-1ede-29aad4000000]
+
+2023/12/08 13:56:25 WARN: [P#0-T#0] https://publicgit.blob.core.windows.net/data/tsv_data/TaxVQAv2/test.caption.tsv no MD5 was stored in the Blob/File service against this file. So the downloaded data cannot be MD5-validated. Dst: /tmp/publicgit/data/TaxVQAv2/test.caption.tsv
+2023/12/08 13:56:25 INFO: [P#0-T#0] DOWNLOADSUCCESSFUL: /tmp/publicgit/data/TaxVQAv2/test.caption.tsv
+2023/12/08 13:56:25 JobID=8b6ad45e-094d-2844-435f-fb319501727d, Part#=0, TransfersDone=1 of 1
+2023/12/08 13:56:25 all parts of entire Job 8b6ad45e-094d-2844-435f-fb319501727d successfully completed, cancelled or paused
+2023/12/08 13:56:25 is part of Job which 1 total number of parts done 
+2023/12/08 13:56:26 PERF: primary performance constraint is Unknown. States: C:  0, R:  0, W:  0, F:  0, H:  0, B:  0, S:  0, P:  0, Q:  0, D:  0, E:  0, T:  0, GRs: 128
+2023/12/08 13:56:26 100.0 %, 1 Done, 0 Failed, 0 Pending, 0 Skipped, 1 Total, 2-sec Throughput (Mb/s): 127.2852
+2023/12/08 13:56:26 
+
+Diagnostic stats:
+IOPS: 0
+End-to-end ms per request: 0
+Network Errors: 0.00%
+Server Busy: 0.00%
+
+
+Job 8b6ad45e-094d-2844-435f-fb319501727d summary
+Elapsed Time (Minutes): 0.0334
+Number of File Transfers: 1
+Number of Folder Property Transfers: 0
+Number of Symlink Transfers: 0
+Total Number of Transfers: 1
+Number of File Transfers Completed: 1
+Number of Folder Transfers Completed: 0
+Number of File Transfers Failed: 0
+Number of Folder Transfers Failed: 0
+Number of File Transfers Skipped: 0
+Number of Folder Transfers Skipped: 0
+TotalBytesTransferred: 31856909
+Final Job Status: Completed
+
+2023/12/08 13:56:26 Closing Log

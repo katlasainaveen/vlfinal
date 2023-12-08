@@ -1,0 +1,13 @@
+2023/12/07 19:03:05 AzcopyVersion  10.22.0
+2023/12/07 19:03:05 OS-Environment  linux
+2023/12/07 19:03:05 OS-Architecture  amd64
+2023/12/07 19:03:05 Log times are in UTC. Local time is 7 Dec 2023 19:03:05
+2023/12/07 19:03:06 ==> REQUEST/RESPONSE (Try=1/86.341406ms, OpTime=364.941247ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   HEAD https://publicgit.blob.core.windows.net/data/tsv_data%2Fcoco_caption%2Ftest.img.lineidx.8b
+   X-Ms-Request-Id: [39914d94-201e-0003-2640-294cff000000]
+
+2023/12/07 19:03:06 ==> REQUEST/RESPONSE (Try=1/86.599163ms, OpTime=86.64608ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   HEAD https://publicgit.blob.core.windows.net/data/tsv_data%2Fcoco_caption%2Ftest.img.lineidx.8b
+   X-Ms-Request-Id: [39914dc7-201e-0003-5340-294cff000000]
+
+2023/12/07 19:03:08 Closing Log

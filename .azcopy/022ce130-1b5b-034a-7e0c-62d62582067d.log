@@ -1,0 +1,199 @@
+2023/12/07 16:51:56 AzcopyVersion  10.22.0
+2023/12/07 16:51:56 OS-Environment  linux
+2023/12/07 16:51:56 OS-Architecture  amd64
+2023/12/07 16:51:56 Log times are in UTC. Local time is 7 Dec 2023 16:51:56
+2023/12/07 16:51:56 ISO 8601 START TIME: to copy files that changed before or after this job started, use the parameter --include-before=2023-12-07T16:51:51Z or --include-after=2023-12-07T16:51:51Z
+2023/12/07 16:51:57 Any empty folders will not be processed, because source and/or destination doesn't have full folder support
+2023/12/07 16:51:57 Job-Command cp https://publicgit.blob.core.windows.net/data/output/GIT_BASE_VATEX/snapshot/model.pt /tmp/publicgit/output/GIT_BASE_VATEX/snapshot/model.pt 
+2023/12/07 16:51:57 Number of CPUs: 8
+2023/12/07 16:51:57 Max file buffer RAM 4.000 GB
+2023/12/07 16:51:57 Max concurrent network operations: 128 (Based on number of CPUs. Set AZCOPY_CONCURRENCY_VALUE environment variable to override)
+2023/12/07 16:51:57 Check CPU usage when dynamically tuning concurrency: true (Based on hard-coded default. Set AZCOPY_TUNE_TO_CPU environment variable to true or false override)
+2023/12/07 16:51:57 Max concurrent transfer initiation routines: 64 (Based on hard-coded default. Set AZCOPY_CONCURRENT_FILES environment variable to override)
+2023/12/07 16:51:57 Max enumeration routines: 16 (Based on hard-coded default. Set AZCOPY_CONCURRENT_SCAN environment variable to override)
+2023/12/07 16:51:57 Parallelize getting file properties (file.Stat): false (Based on AZCOPY_PARALLEL_STAT_FILES environment variable)
+2023/12/07 16:51:57 Max open files when downloading: 1048047 (auto-computed)
+2023/12/07 16:51:57 Final job part has been created
+2023/12/07 16:51:57 Final job part has been scheduled
+2023/12/07 16:51:58 ==> REQUEST/RESPONSE (Try=1/103.668166ms, OpTime=382.009338ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_VATEX%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [5863af40-701e-0043-582d-294bc7000000]
+
+2023/12/07 16:51:58 ==> REQUEST/RESPONSE (Try=1/111.935508ms, OpTime=394.78683ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_VATEX%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [2bba5924-d01e-0038-582d-29095b000000]
+
+2023/12/07 16:51:58 ==> REQUEST/RESPONSE (Try=1/119.418392ms, OpTime=400.629923ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_VATEX%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [eeb9113b-e01e-006e-112d-29f8b4000000]
+
+2023/12/07 16:51:58 ==> REQUEST/RESPONSE (Try=1/115.505852ms, OpTime=401.384234ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_VATEX%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [e1a9e047-901e-005b-192d-2994a0000000]
+
+2023/12/07 16:51:58 ==> REQUEST/RESPONSE (Try=1/123.126813ms, OpTime=405.206134ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_VATEX%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [51fa56c7-501e-006b-312d-292a6f000000]
+
+2023/12/07 16:51:58 ==> REQUEST/RESPONSE (Try=1/122.624769ms, OpTime=408.581845ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_VATEX%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [52573bf3-a01e-0022-6f2d-296884000000]
+
+2023/12/07 16:51:58 ==> REQUEST/RESPONSE (Try=1/123.617328ms, OpTime=411.797509ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_VATEX%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [2b3e9a97-601e-003d-3b2d-29db80000000]
+
+2023/12/07 16:51:58 ==> REQUEST/RESPONSE (Try=1/121.646658ms, OpTime=416.149662ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_VATEX%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [eebd86d3-e01e-000c-262d-293a93000000]
+
+2023/12/07 16:51:58 ==> REQUEST/RESPONSE (Try=1/136.948226ms, OpTime=417.191003ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_VATEX%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [fe556e0d-f01e-003f-602d-296538000000]
+
+2023/12/07 16:51:58 ==> REQUEST/RESPONSE (Try=1/120.933058ms, OpTime=417.239235ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_VATEX%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [8434db05-901e-0006-2a2d-299e24000000]
+
+2023/12/07 16:51:58 ==> REQUEST/RESPONSE (Try=1/141.473019ms, OpTime=420.276839ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_VATEX%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [5863af42-701e-0043-5a2d-294bc7000000]
+
+2023/12/07 16:51:58 ==> REQUEST/RESPONSE (Try=1/131.387676ms, OpTime=421.451204ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_VATEX%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [5ad3a7e9-d01e-0075-282d-29c6b7000000]
+
+2023/12/07 16:51:58 ==> REQUEST/RESPONSE (Try=1/140.112132ms, OpTime=424.264526ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_VATEX%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [68a50f12-b01e-002e-432d-29ff8c000000]
+
+2023/12/07 16:51:58 ==> REQUEST/RESPONSE (Try=1/147.002631ms, OpTime=429.752877ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_VATEX%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [09f75249-f01e-0062-202d-296fbc000000]
+
+2023/12/07 16:51:58 ==> REQUEST/RESPONSE (Try=1/158.703841ms, OpTime=434.02122ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_VATEX%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [d969716d-801e-0035-612d-29c18f000000]
+
+2023/12/07 16:51:58 ==> REQUEST/RESPONSE (Try=1/155.484663ms, OpTime=435.54841ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_VATEX%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [7a9571d5-e01e-0051-302d-293017000000]
+
+2023/12/07 16:51:58 ==> REQUEST/RESPONSE (Try=1/141.204776ms, OpTime=436.271742ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_VATEX%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [52573c02-a01e-0022-752d-296884000000]
+
+2023/12/07 16:51:58 ==> REQUEST/RESPONSE (Try=1/146.603858ms, OpTime=437.167937ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_VATEX%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [395050c1-201e-0003-162d-294cff000000]
+
+2023/12/07 16:51:58 ==> REQUEST/RESPONSE (Try=1/146.059284ms, OpTime=438.160031ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_VATEX%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [aa9a32be-301e-0052-632d-29d173000000]
+
+2023/12/07 16:51:58 ==> REQUEST/RESPONSE (Try=1/151.287975ms, OpTime=438.748838ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_VATEX%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [e85f099c-c01e-0079-6b2d-2951bf000000]
+
+2023/12/07 16:51:58 ==> REQUEST/RESPONSE (Try=1/142.952026ms, OpTime=439.659361ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_VATEX%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [37d12af3-701e-001e-692d-294143000000]
+
+2023/12/07 16:51:58 ==> REQUEST/RESPONSE (Try=1/155.256189ms, OpTime=440.937752ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_VATEX%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [395050b7-201e-0003-112d-294cff000000]
+
+2023/12/07 16:51:58 ==> REQUEST/RESPONSE (Try=1/147.462479ms, OpTime=444.886329ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_VATEX%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [d969718e-801e-0035-732d-29c18f000000]
+
+2023/12/07 16:51:58 ==> REQUEST/RESPONSE (Try=1/152.192532ms, OpTime=447.716317ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_VATEX%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [ba8dc4ac-501e-0054-272d-29e2cc000000]
+
+2023/12/07 16:51:58 ==> REQUEST/RESPONSE (Try=1/157.682809ms, OpTime=450.091282ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_VATEX%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [dbff2037-001e-0066-0e2d-29e2bb000000]
+
+2023/12/07 16:51:58 ==> REQUEST/RESPONSE (Try=1/159.328982ms, OpTime=455.842643ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_VATEX%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [3b57cf9d-c01e-0024-522d-295b3b000000]
+
+2023/12/07 16:51:58 ==> REQUEST/RESPONSE (Try=1/163.952544ms, OpTime=462.812996ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_VATEX%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [bbe71567-901e-0064-522d-295c03000000]
+
+2023/12/07 16:51:58 ==> REQUEST/RESPONSE (Try=1/173.010708ms, OpTime=464.29533ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_VATEX%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [d6871d10-801e-0025-7b2d-2904e7000000]
+
+2023/12/07 16:51:58 ==> REQUEST/RESPONSE (Try=1/172.553463ms, OpTime=465.675308ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_VATEX%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [38d04c90-c01e-001b-722d-299398000000]
+
+2023/12/07 16:51:58 ==> REQUEST/RESPONSE (Try=1/173.260313ms, OpTime=468.144472ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_VATEX%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [b65d5b9b-601e-002d-702d-291ee8000000]
+
+2023/12/07 16:51:58 ==> REQUEST/RESPONSE (Try=1/173.69602ms, OpTime=472.001579ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_VATEX%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [e5fc4f17-001e-0004-3b2d-29209c000000]
+
+2023/12/07 16:51:58 ==> REQUEST/RESPONSE (Try=1/178.290233ms, OpTime=476.582245ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_VATEX%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [0e07fd48-301e-0030-4f2d-291354000000]
+
+2023/12/07 16:51:58 ==> REQUEST/RESPONSE (Try=1/198.321107ms, OpTime=485.984028ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_VATEX%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [e4c3f39c-a01e-006f-2b2d-29a768000000]
+
+2023/12/07 16:51:58 ==> REQUEST/RESPONSE (Try=1/200.745539ms, OpTime=490.501743ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_VATEX%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [0613de17-801e-0078-472d-290e63000000]
+
+2023/12/07 16:51:58 ==> REQUEST/RESPONSE (Try=1/197.900152ms, OpTime=492.518691ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_VATEX%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [39fb39a5-d01e-0065-2e2d-2903df000000]
+
+2023/12/07 16:51:58 ==> REQUEST/RESPONSE (Try=1/204.525487ms, OpTime=494.243973ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_VATEX%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [5c18a5ab-f01e-0072-2d2d-29aad4000000]
+
+2023/12/07 16:51:58 ==> REQUEST/RESPONSE (Try=1/384.033282ms, OpTime=669.678939ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_VATEX%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [b13fe3e9-401e-0015-032d-29ba28000000]
+
+2023/12/07 16:51:59 PERF: primary performance constraint is Unknown. States: C:  0, R:  0, W:  0, F:  0, H:  0, B: 11, S:  0, P: 23, Q:  0, D:  0, E:  0, T: 34, GRs: 128
+2023/12/07 16:51:59 71.0 %, 0 Done, 0 Failed, 1 Pending, 0 Skipped, 1 Total, 2-sec Throughput (Mb/s): 1228.2525
+2023/12/07 16:52:01 WARN: [P#0-T#0] https://publicgit.blob.core.windows.net/data/output/GIT_BASE_VATEX/snapshot/model.pt no MD5 was stored in the Blob/File service against this file. So the downloaded data cannot be MD5-validated. Dst: /tmp/publicgit/output/GIT_BASE_VATEX/snapshot/model.pt
+2023/12/07 16:52:01 INFO: [P#0-T#0] DOWNLOADSUCCESSFUL: /tmp/publicgit/output/GIT_BASE_VATEX/snapshot/model.pt
+2023/12/07 16:52:01 JobID=022ce130-1b5b-034a-7e0c-62d62582067d, Part#=0, TransfersDone=1 of 1
+2023/12/07 16:52:01 all parts of entire Job 022ce130-1b5b-034a-7e0c-62d62582067d successfully completed, cancelled or paused
+2023/12/07 16:52:01 is part of Job which 1 total number of parts done 
+2023/12/07 16:52:01 PERF: primary performance constraint is Unknown. States: C:  0, R:  0, W:  0, F:  0, H:  0, B:  0, S:  0, P:  0, Q:  0, D:  0, E:  0, T:  0, GRs: 128
+2023/12/07 16:52:01 100.0 %, 1 Done, 0 Failed, 0 Pending, 0 Skipped, 1 Total, 
+2023/12/07 16:52:01 
+
+Diagnostic stats:
+IOPS: 0
+End-to-end ms per request: 0
+Network Errors: 0.00%
+Server Busy: 0.00%
+
+
+Job 022ce130-1b5b-034a-7e0c-62d62582067d summary
+Elapsed Time (Minutes): 0.0667
+Number of File Transfers: 1
+Number of Folder Property Transfers: 0
+Number of Symlink Transfers: 0
+Total Number of Transfers: 1
+Number of File Transfers Completed: 1
+Number of Folder Transfers Completed: 0
+Number of File Transfers Failed: 0
+Number of Folder Transfers Failed: 0
+Number of File Transfers Skipped: 0
+Number of Folder Transfers Skipped: 0
+TotalBytesTransferred: 307204583
+Final Job Status: Completed
+
+2023/12/07 16:52:01 Closing Log

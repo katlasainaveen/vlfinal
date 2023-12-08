@@ -1,0 +1,52 @@
+2023/12/08 13:54:33 AzcopyVersion  10.22.0
+2023/12/08 13:54:33 OS-Environment  linux
+2023/12/08 13:54:33 OS-Architecture  amd64
+2023/12/08 13:54:33 Log times are in UTC. Local time is 8 Dec 2023 13:54:33
+2023/12/08 13:54:33 ISO 8601 START TIME: to copy files that changed before or after this job started, use the parameter --include-before=2023-12-08T13:54:28Z or --include-after=2023-12-08T13:54:28Z
+2023/12/08 13:54:34 Any empty folders will not be processed, because source and/or destination doesn't have full folder support
+2023/12/08 13:54:34 Job-Command cp https://publicgit.blob.core.windows.net/data/output/GIT_BASE_VQAv2/parameter.yaml /tmp/publicgit/output/GIT_BASE_VQAv2/parameter.yaml 
+2023/12/08 13:54:34 Number of CPUs: 8
+2023/12/08 13:54:34 Max file buffer RAM 4.000 GB
+2023/12/08 13:54:34 Max concurrent network operations: 128 (Based on number of CPUs. Set AZCOPY_CONCURRENCY_VALUE environment variable to override)
+2023/12/08 13:54:34 Check CPU usage when dynamically tuning concurrency: true (Based on hard-coded default. Set AZCOPY_TUNE_TO_CPU environment variable to true or false override)
+2023/12/08 13:54:34 Max concurrent transfer initiation routines: 64 (Based on hard-coded default. Set AZCOPY_CONCURRENT_FILES environment variable to override)
+2023/12/08 13:54:34 Max enumeration routines: 16 (Based on hard-coded default. Set AZCOPY_CONCURRENT_SCAN environment variable to override)
+2023/12/08 13:54:34 Parallelize getting file properties (file.Stat): false (Based on AZCOPY_PARALLEL_STAT_FILES environment variable)
+2023/12/08 13:54:34 Max open files when downloading: 1048047 (auto-computed)
+2023/12/08 13:54:34 Final job part has been created
+2023/12/08 13:54:34 Final job part has been scheduled
+2023/12/08 13:54:35 ==> REQUEST/RESPONSE (Try=1/127.8172ms, OpTime=408.011898ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_VQAv2%2Fparameter.yaml
+   X-Ms-Request-Id: [5a9713e5-c01e-0034-40de-299e53000000]
+
+2023/12/08 13:54:35 INFO: [P#0-T#0] DOWNLOADSUCCESSFUL: /tmp/publicgit/output/GIT_BASE_VQAv2/parameter.yaml
+2023/12/08 13:54:35 JobID=e3e83ccb-b431-074d-56e0-5ed241dc3c6f, Part#=0, TransfersDone=1 of 1
+2023/12/08 13:54:35 all parts of entire Job e3e83ccb-b431-074d-56e0-5ed241dc3c6f successfully completed, cancelled or paused
+2023/12/08 13:54:35 is part of Job which 1 total number of parts done 
+2023/12/08 13:54:36 PERF: primary performance constraint is Unknown. States: C:  0, R:  0, W:  0, F:  0, H:  0, B:  0, S:  0, P:  0, Q:  0, D:  0, E:  0, T:  0, GRs: 128
+2023/12/08 13:54:36 100.0 %, 1 Done, 0 Failed, 0 Pending, 0 Skipped, 1 Total, 2-sec Throughput (Mb/s): 0.0002
+2023/12/08 13:54:36 
+
+Diagnostic stats:
+IOPS: 0
+End-to-end ms per request: 0
+Network Errors: 0.00%
+Server Busy: 0.00%
+
+
+Job e3e83ccb-b431-074d-56e0-5ed241dc3c6f summary
+Elapsed Time (Minutes): 0.0334
+Number of File Transfers: 1
+Number of Folder Property Transfers: 0
+Number of Symlink Transfers: 0
+Total Number of Transfers: 1
+Number of File Transfers Completed: 1
+Number of Folder Transfers Completed: 0
+Number of File Transfers Failed: 0
+Number of Folder Transfers Failed: 0
+Number of File Transfers Skipped: 0
+Number of Folder Transfers Skipped: 0
+TotalBytesTransferred: 48
+Final Job Status: Completed
+
+2023/12/08 13:54:36 Closing Log

@@ -1,0 +1,476 @@
+2023/12/07 19:02:56 AzcopyVersion  10.22.0
+2023/12/07 19:02:56 OS-Environment  linux
+2023/12/07 19:02:56 OS-Architecture  amd64
+2023/12/07 19:02:56 Log times are in UTC. Local time is 7 Dec 2023 19:02:56
+2023/12/07 19:02:56 ISO 8601 START TIME: to copy files that changed before or after this job started, use the parameter --include-before=2023-12-07T19:02:51Z or --include-after=2023-12-07T19:02:51Z
+2023/12/07 19:02:57 Any empty folders will not be processed, because source and/or destination doesn't have full folder support
+2023/12/07 19:02:57 Job-Command cp https://publicgit.blob.core.windows.net/data/tsv_data/coco_caption/test.img.tsv /tmp/publicgit/data/coco_caption/test.img.tsv 
+2023/12/07 19:02:57 Number of CPUs: 8
+2023/12/07 19:02:57 Max file buffer RAM 4.000 GB
+2023/12/07 19:02:57 Max concurrent network operations: 128 (Based on number of CPUs. Set AZCOPY_CONCURRENCY_VALUE environment variable to override)
+2023/12/07 19:02:57 Check CPU usage when dynamically tuning concurrency: true (Based on hard-coded default. Set AZCOPY_TUNE_TO_CPU environment variable to true or false override)
+2023/12/07 19:02:57 Max concurrent transfer initiation routines: 64 (Based on hard-coded default. Set AZCOPY_CONCURRENT_FILES environment variable to override)
+2023/12/07 19:02:57 Max enumeration routines: 16 (Based on hard-coded default. Set AZCOPY_CONCURRENT_SCAN environment variable to override)
+2023/12/07 19:02:57 Parallelize getting file properties (file.Stat): false (Based on AZCOPY_PARALLEL_STAT_FILES environment variable)
+2023/12/07 19:02:57 Max open files when downloading: 1048047 (auto-computed)
+2023/12/07 19:02:57 Final job part has been created
+2023/12/07 19:02:57 Final job part has been scheduled
+2023/12/07 19:02:58 ==> REQUEST/RESPONSE (Try=1/131.353603ms, OpTime=420.810704ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2Fcoco_caption%2Ftest.img.tsv
+   X-Ms-Request-Id: [e41097ae-b01e-004c-2e3f-293dab000000]
+
+2023/12/07 19:02:58 ==> REQUEST/RESPONSE (Try=1/137.402614ms, OpTime=423.732052ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2Fcoco_caption%2Ftest.img.tsv
+   X-Ms-Request-Id: [f06b3442-e01e-0033-173f-29f230000000]
+
+2023/12/07 19:02:58 ==> REQUEST/RESPONSE (Try=1/129.265208ms, OpTime=429.16741ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2Fcoco_caption%2Ftest.img.tsv
+   X-Ms-Request-Id: [c6a9115f-c01e-0034-113f-299e53000000]
+
+2023/12/07 19:02:58 ==> REQUEST/RESPONSE (Try=1/166.055867ms, OpTime=443.896889ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2Fcoco_caption%2Ftest.img.tsv
+   X-Ms-Request-Id: [e63891c4-001e-0004-3f3f-29209c000000]
+
+2023/12/07 19:02:58 ==> REQUEST/RESPONSE (Try=1/138.902766ms, OpTime=446.007795ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2Fcoco_caption%2Ftest.img.tsv
+   X-Ms-Request-Id: [f9cdf64c-601e-0060-723f-29d104000000]
+
+2023/12/07 19:02:58 ==> REQUEST/RESPONSE (Try=1/139.543582ms, OpTime=447.473391ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2Fcoco_caption%2Ftest.img.tsv
+   X-Ms-Request-Id: [477d8080-d01e-004a-423f-290e14000000]
+
+2023/12/07 19:02:58 ==> REQUEST/RESPONSE (Try=1/169.110297ms, OpTime=448.558087ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2Fcoco_caption%2Ftest.img.tsv
+   X-Ms-Request-Id: [abc46fe0-901e-0074-573f-29996b000000]
+
+2023/12/07 19:02:58 ==> REQUEST/RESPONSE (Try=1/132.529753ms, OpTime=452.310615ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2Fcoco_caption%2Ftest.img.tsv
+   X-Ms-Request-Id: [e63891de-001e-0004-553f-29209c000000]
+
+2023/12/07 19:02:58 ==> REQUEST/RESPONSE (Try=1/173.67732ms, OpTime=453.826794ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2Fcoco_caption%2Ftest.img.tsv
+   X-Ms-Request-Id: [c64efbf3-001e-002b-013f-292d57000000]
+
+2023/12/07 19:02:58 ==> REQUEST/RESPONSE (Try=1/147.147709ms, OpTime=454.224351ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2Fcoco_caption%2Ftest.img.tsv
+   X-Ms-Request-Id: [7ad017ab-e01e-0051-193f-293017000000]
+
+2023/12/07 19:02:58 ==> REQUEST/RESPONSE (Try=1/145.877596ms, OpTime=454.298592ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2Fcoco_caption%2Ftest.img.tsv
+   X-Ms-Request-Id: [e41097bd-b01e-004c-3b3f-293dab000000]
+
+2023/12/07 19:02:58 ==> REQUEST/RESPONSE (Try=1/173.615602ms, OpTime=457.807639ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2Fcoco_caption%2Ftest.img.tsv
+   X-Ms-Request-Id: [504e1f79-401e-003a-523f-29b7e3000000]
+
+2023/12/07 19:02:58 ==> REQUEST/RESPONSE (Try=1/180.498715ms, OpTime=459.733605ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2Fcoco_caption%2Ftest.img.tsv
+   X-Ms-Request-Id: [0bdaa0e1-901e-0016-543f-295b4c000000]
+
+2023/12/07 19:02:58 ==> REQUEST/RESPONSE (Try=1/180.670642ms, OpTime=460.106826ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2Fcoco_caption%2Ftest.img.tsv
+   X-Ms-Request-Id: [a51e2cbe-301e-001f-3a3f-291e9f000000]
+
+2023/12/07 19:02:58 ==> REQUEST/RESPONSE (Try=1/150.288713ms, OpTime=464.20718ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2Fcoco_caption%2Ftest.img.tsv
+   X-Ms-Request-Id: [f2997dd6-201e-0071-093f-294bb0000000]
+
+2023/12/07 19:02:58 ==> REQUEST/RESPONSE (Try=1/186.029338ms, OpTime=468.574225ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2Fcoco_caption%2Ftest.img.tsv
+   X-Ms-Request-Id: [6efac6d1-901e-0039-443f-295687000000]
+
+2023/12/07 19:02:58 ==> REQUEST/RESPONSE (Try=1/166.530763ms, OpTime=473.329971ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2Fcoco_caption%2Ftest.img.tsv
+   X-Ms-Request-Id: [c64efc03-001e-002b-113f-292d57000000]
+
+2023/12/07 19:02:58 ==> REQUEST/RESPONSE (Try=1/199.685841ms, OpTime=481.781733ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2Fcoco_caption%2Ftest.img.tsv
+   X-Ms-Request-Id: [8340484f-c01e-0046-6f3f-29991c000000]
+
+2023/12/07 19:02:58 ==> REQUEST/RESPONSE (Try=1/166.592196ms, OpTime=483.086508ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2Fcoco_caption%2Ftest.img.tsv
+   X-Ms-Request-Id: [728ce2a6-901e-0006-433f-299e24000000]
+
+2023/12/07 19:02:58 ==> REQUEST/RESPONSE (Try=1/107.435913ms, OpTime=495.448977ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2Fcoco_caption%2Ftest.img.tsv
+   X-Ms-Request-Id: [f022f177-b01e-003e-293f-293ae4000000]
+
+2023/12/07 19:02:58 ==> REQUEST/RESPONSE (Try=1/212.689433ms, OpTime=496.765962ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2Fcoco_caption%2Ftest.img.tsv
+   X-Ms-Request-Id: [83404850-c01e-0046-703f-29991c000000]
+
+2023/12/07 19:02:58 ==> REQUEST/RESPONSE (Try=1/112.223041ms, OpTime=500.309738ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2Fcoco_caption%2Ftest.img.tsv
+   X-Ms-Request-Id: [c8f02d9d-a01e-0032-423f-29adec000000]
+
+2023/12/07 19:02:58 ==> REQUEST/RESPONSE (Try=1/198.765348ms, OpTime=503.543875ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2Fcoco_caption%2Ftest.img.tsv
+   X-Ms-Request-Id: [c3bd63ea-501e-0019-453f-292d20000000]
+
+2023/12/07 19:02:58 ==> REQUEST/RESPONSE (Try=1/195.847508ms, OpTime=504.952383ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2Fcoco_caption%2Ftest.img.tsv
+   X-Ms-Request-Id: [728ce29e-901e-0006-3d3f-299e24000000]
+
+2023/12/07 19:02:58 ==> REQUEST/RESPONSE (Try=1/202.873973ms, OpTime=510.851554ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2Fcoco_caption%2Ftest.img.tsv
+   X-Ms-Request-Id: [7ad017ac-e01e-0051-1a3f-293017000000]
+
+2023/12/07 19:02:58 ==> REQUEST/RESPONSE (Try=1/221.056788ms, OpTime=515.833116ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2Fcoco_caption%2Ftest.img.tsv
+   X-Ms-Request-Id: [39128105-c01e-001b-323f-299398000000]
+
+2023/12/07 19:02:58 ==> REQUEST/RESPONSE (Try=1/210.774154ms, OpTime=515.61819ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2Fcoco_caption%2Ftest.img.tsv
+   X-Ms-Request-Id: [e2c741a2-301e-0020-5b3f-29d63c000000]
+
+2023/12/07 19:02:58 ==> REQUEST/RESPONSE (Try=1/138.36559ms, OpTime=515.834557ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2Fcoco_caption%2Ftest.img.tsv
+   X-Ms-Request-Id: [7ad017e5-e01e-0051-443f-293017000000]
+
+2023/12/07 19:02:58 ==> REQUEST/RESPONSE (Try=1/214.430159ms, OpTime=518.556267ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2Fcoco_caption%2Ftest.img.tsv
+   X-Ms-Request-Id: [4957ab52-b01e-0063-463f-293060000000]
+
+2023/12/07 19:02:58 ==> REQUEST/RESPONSE (Try=1/135.870072ms, OpTime=523.500198ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2Fcoco_caption%2Ftest.img.tsv
+   X-Ms-Request-Id: [e4f59397-a01e-006f-1d3f-29a768000000]
+
+2023/12/07 19:02:58 ==> REQUEST/RESPONSE (Try=1/251.760507ms, OpTime=525.536797ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2Fcoco_caption%2Ftest.img.tsv
+   X-Ms-Request-Id: [2975e463-a01e-000d-603f-29654f000000]
+
+2023/12/07 19:02:58 ==> REQUEST/RESPONSE (Try=1/209.013997ms, OpTime=527.340039ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2Fcoco_caption%2Ftest.img.tsv
+   X-Ms-Request-Id: [eefeffe8-901e-004b-113f-2951c8000000]
+
+2023/12/07 19:02:58 ==> REQUEST/RESPONSE (Try=1/216.647708ms, OpTime=527.444594ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2Fcoco_caption%2Ftest.img.tsv
+   X-Ms-Request-Id: [eef7749d-e01e-006e-1e3f-29f8b4000000]
+
+2023/12/07 19:02:58 ==> REQUEST/RESPONSE (Try=1/152.723685ms, OpTime=527.02226ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2Fcoco_caption%2Ftest.img.tsv
+   X-Ms-Request-Id: [35899e00-401e-002a-1f3f-29728b000000]
+
+2023/12/07 19:02:58 ==> REQUEST/RESPONSE (Try=1/235.65286ms, OpTime=531.811269ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2Fcoco_caption%2Ftest.img.tsv
+   X-Ms-Request-Id: [c3bd63df-501e-0019-3c3f-292d20000000]
+
+2023/12/07 19:02:58 ==> REQUEST/RESPONSE (Try=1/230.570777ms, OpTime=536.56956ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2Fcoco_caption%2Ftest.img.tsv
+   X-Ms-Request-Id: [3cf851ea-201e-005e-623f-29467b000000]
+
+2023/12/07 19:02:58 ==> REQUEST/RESPONSE (Try=1/221.97397ms, OpTime=541.570314ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2Fcoco_caption%2Ftest.img.tsv
+   X-Ms-Request-Id: [eefeffe9-901e-004b-123f-2951c8000000]
+
+2023/12/07 19:02:58 ==> REQUEST/RESPONSE (Try=1/238.426829ms, OpTime=543.059125ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2Fcoco_caption%2Ftest.img.tsv
+   X-Ms-Request-Id: [f33cb696-b01e-0001-6f3f-29f247000000]
+
+2023/12/07 19:02:58 ==> REQUEST/RESPONSE (Try=1/233.589948ms, OpTime=544.064621ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2Fcoco_caption%2Ftest.img.tsv
+   X-Ms-Request-Id: [e4f5936a-a01e-006f-793f-29a768000000]
+
+2023/12/07 19:02:58 ==> REQUEST/RESPONSE (Try=1/223.157329ms, OpTime=544.500398ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2Fcoco_caption%2Ftest.img.tsv
+   X-Ms-Request-Id: [7ad017b9-e01e-0051-263f-293017000000]
+
+2023/12/07 19:02:58 ==> REQUEST/RESPONSE (Try=1/236.719861ms, OpTime=544.587486ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2Fcoco_caption%2Ftest.img.tsv
+   X-Ms-Request-Id: [30dd747e-901e-0029-313f-2993ef000000]
+
+2023/12/07 19:02:58 ==> REQUEST/RESPONSE (Try=1/240.778604ms, OpTime=548.397024ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2Fcoco_caption%2Ftest.img.tsv
+   X-Ms-Request-Id: [09c0a568-801e-000a-673f-29092c000000]
+
+2023/12/07 19:02:58 ==> REQUEST/RESPONSE (Try=1/232.626808ms, OpTime=552.832298ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2Fcoco_caption%2Ftest.img.tsv
+   X-Ms-Request-Id: [e41097c6-b01e-004c-443f-293dab000000]
+
+2023/12/07 19:02:58 ==> REQUEST/RESPONSE (Try=1/246.148608ms, OpTime=558.399065ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2Fcoco_caption%2Ftest.img.tsv
+   X-Ms-Request-Id: [bc185549-901e-0064-6b3f-295c03000000]
+
+2023/12/07 19:02:58 ==> REQUEST/RESPONSE (Try=1/255.681394ms, OpTime=559.222336ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2Fcoco_caption%2Ftest.img.tsv
+   X-Ms-Request-Id: [5730001a-001e-0076-123f-2927d3000000]
+
+2023/12/07 19:02:58 ==> REQUEST/RESPONSE (Try=1/286.006757ms, OpTime=566.930189ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2Fcoco_caption%2Ftest.img.tsv
+   X-Ms-Request-Id: [e894c83c-c01e-0079-043f-2951bf000000]
+
+2023/12/07 19:02:58 ==> REQUEST/RESPONSE (Try=1/191.00889ms, OpTime=570.931415ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2Fcoco_caption%2Ftest.img.tsv
+   X-Ms-Request-Id: [a957e0c6-f01e-005d-743f-29a71f000000]
+
+2023/12/07 19:02:58 ==> REQUEST/RESPONSE (Try=1/264.254594ms, OpTime=573.361777ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2Fcoco_caption%2Ftest.img.tsv
+   X-Ms-Request-Id: [3803d514-701e-001e-643f-294143000000]
+
+2023/12/07 19:02:58 ==> REQUEST/RESPONSE (Try=1/266.122826ms, OpTime=574.585839ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2Fcoco_caption%2Ftest.img.tsv
+   X-Ms-Request-Id: [e3d7c386-101e-0045-273f-297878000000]
+
+2023/12/07 19:02:58 ==> REQUEST/RESPONSE (Try=1/274.527678ms, OpTime=579.697151ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2Fcoco_caption%2Ftest.img.tsv
+   X-Ms-Request-Id: [973de440-001e-003b-4d3f-29e83f000000]
+
+2023/12/07 19:02:58 ==> REQUEST/RESPONSE (Try=1/299.087936ms, OpTime=580.371113ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2Fcoco_caption%2Ftest.img.tsv
+   X-Ms-Request-Id: [fc9bf0ff-801e-001a-4d3f-29cc44000000]
+
+2023/12/07 19:02:58 ==> REQUEST/RESPONSE (Try=1/274.858004ms, OpTime=583.462693ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2Fcoco_caption%2Ftest.img.tsv
+   X-Ms-Request-Id: [7ad017ae-e01e-0051-1c3f-293017000000]
+
+2023/12/07 19:02:58 ==> REQUEST/RESPONSE (Try=1/263.630227ms, OpTime=582.374712ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2Fcoco_caption%2Ftest.img.tsv
+   X-Ms-Request-Id: [af6cbc1c-c01e-0056-773f-295c74000000]
+
+2023/12/07 19:02:58 ==> REQUEST/RESPONSE (Try=1/301.052606ms, OpTime=585.850315ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2Fcoco_caption%2Ftest.img.tsv
+   X-Ms-Request-Id: [39913a39-201e-0003-343f-294cff000000]
+
+2023/12/07 19:02:58 ==> REQUEST/RESPONSE (Try=1/196.58923ms, OpTime=585.570288ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2Fcoco_caption%2Ftest.img.tsv
+   X-Ms-Request-Id: [e4f5939a-a01e-006f-203f-29a768000000]
+
+2023/12/07 19:02:58 ==> REQUEST/RESPONSE (Try=1/299.893601ms, OpTime=586.328102ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2Fcoco_caption%2Ftest.img.tsv
+   X-Ms-Request-Id: [3803d504-701e-001e-563f-294143000000]
+
+2023/12/07 19:02:58 ==> REQUEST/RESPONSE (Try=1/309.079287ms, OpTime=588.386706ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2Fcoco_caption%2Ftest.img.tsv
+   X-Ms-Request-Id: [7003b6d2-701e-000e-2d3f-29842b000000]
+
+2023/12/07 19:02:58 ==> REQUEST/RESPONSE (Try=1/280.646014ms, OpTime=587.869505ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2Fcoco_caption%2Ftest.img.tsv
+   X-Ms-Request-Id: [299fb6a1-601e-0012-693f-29d64b000000]
+
+2023/12/07 19:02:58 ==> REQUEST/RESPONSE (Try=1/294.219696ms, OpTime=600.802466ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2Fcoco_caption%2Ftest.img.tsv
+   X-Ms-Request-Id: [c6a91165-c01e-0034-143f-299e53000000]
+
+2023/12/07 19:02:58 ==> REQUEST/RESPONSE (Try=1/296.298603ms, OpTime=605.363055ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2Fcoco_caption%2Ftest.img.tsv
+   X-Ms-Request-Id: [eefeffe3-901e-004b-0e3f-2951c8000000]
+
+2023/12/07 19:02:58 ==> REQUEST/RESPONSE (Try=1/225.967695ms, OpTime=604.377054ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2Fcoco_caption%2Ftest.img.tsv
+   X-Ms-Request-Id: [eef774c1-e01e-006e-413f-29f8b4000000]
+
+2023/12/07 19:02:58 ==> REQUEST/RESPONSE (Try=1/288.924801ms, OpTime=608.697935ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2Fcoco_caption%2Ftest.img.tsv
+   X-Ms-Request-Id: [0da687fb-001e-0059-493f-292a18000000]
+
+2023/12/07 19:02:58 ==> REQUEST/RESPONSE (Try=1/299.622389ms, OpTime=611.561248ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2Fcoco_caption%2Ftest.img.tsv
+   X-Ms-Request-Id: [7003b6e8-701e-000e-403f-29842b000000]
+
+2023/12/07 19:02:58 ==> REQUEST/RESPONSE (Try=1/227.215779ms, OpTime=612.627558ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2Fcoco_caption%2Ftest.img.tsv
+   X-Ms-Request-Id: [8c7bc7b0-701e-0053-0a3f-298eaf000000]
+
+2023/12/07 19:02:58 ==> REQUEST/RESPONSE (Try=1/309.395605ms, OpTime=615.254175ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2Fcoco_caption%2Ftest.img.tsv
+   X-Ms-Request-Id: [bdbd654a-601e-004f-153f-29dccf000000]
+
+2023/12/07 19:02:58 ==> REQUEST/RESPONSE (Try=1/302.113799ms, OpTime=617.029281ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2Fcoco_caption%2Ftest.img.tsv
+   X-Ms-Request-Id: [031044a1-701e-0021-123f-2989e0000000]
+
+2023/12/07 19:02:58 ==> REQUEST/RESPONSE (Try=1/309.955665ms, OpTime=622.839569ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2Fcoco_caption%2Ftest.img.tsv
+   X-Ms-Request-Id: [728ce2a3-901e-0006-403f-299e24000000]
+
+2023/12/07 19:02:58 ==> REQUEST/RESPONSE (Try=1/236.036925ms, OpTime=623.518182ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2Fcoco_caption%2Ftest.img.tsv
+   X-Ms-Request-Id: [0628f766-d01e-005a-203f-29cb7c000000]
+
+2023/12/07 19:02:58 ==> REQUEST/RESPONSE (Try=1/328.203506ms, OpTime=627.851466ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2Fcoco_caption%2Ftest.img.tsv
+   X-Ms-Request-Id: [1fbd6ebc-201e-002c-3c3f-294134000000]
+
+2023/12/07 19:02:58 ==> REQUEST/RESPONSE (Try=1/322.204985ms, OpTime=630.744393ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2Fcoco_caption%2Ftest.img.tsv
+   X-Ms-Request-Id: [2bf0301d-d01e-0038-233f-29095b000000]
+
+2023/12/07 19:02:58 ==> REQUEST/RESPONSE (Try=1/333.887871ms, OpTime=637.577402ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2Fcoco_caption%2Ftest.img.tsv
+   X-Ms-Request-Id: [5fa949e2-301e-000f-413f-29dbf7000000]
+
+2023/12/07 19:02:58 ==> REQUEST/RESPONSE (Try=1/260.206974ms, OpTime=638.585771ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2Fcoco_caption%2Ftest.img.tsv
+   X-Ms-Request-Id: [3cf85218-201e-005e-0c3f-29467b000000]
+
+2023/12/07 19:02:58 ==> REQUEST/RESPONSE (Try=1/338.877163ms, OpTime=644.300141ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2Fcoco_caption%2Ftest.img.tsv
+   X-Ms-Request-Id: [cf28cfa0-101e-0027-333f-29ba5f000000]
+
+2023/12/07 19:02:58 ==> REQUEST/RESPONSE (Try=1/334.475677ms, OpTime=647.117249ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2Fcoco_caption%2Ftest.img.tsv
+   X-Ms-Request-Id: [b690e43f-601e-002d-073f-291ee8000000]
+
+2023/12/07 19:02:58 ==> REQUEST/RESPONSE (Try=1/352.049097ms, OpTime=656.793853ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2Fcoco_caption%2Ftest.img.tsv
+   X-Ms-Request-Id: [8c7bc788-701e-0053-653f-298eaf000000]
+
+2023/12/07 19:02:58 ==> REQUEST/RESPONSE (Try=1/384.285292ms, OpTime=658.232301ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2Fcoco_caption%2Ftest.img.tsv
+   X-Ms-Request-Id: [d45812d1-001e-0014-4d3f-29e5f4000000]
+
+2023/12/07 19:02:58 ==> REQUEST/RESPONSE (Try=1/358.081518ms, OpTime=672.035942ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2Fcoco_caption%2Ftest.img.tsv
+   X-Ms-Request-Id: [87d7632d-501e-0036-243f-2920eb000000]
+
+2023/12/07 19:02:58 ==> REQUEST/RESPONSE (Try=1/371.413239ms, OpTime=676.494112ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2Fcoco_caption%2Ftest.img.tsv
+   X-Ms-Request-Id: [fe9d74f2-f01e-003f-5b3f-296538000000]
+
+2023/12/07 19:02:58 ==> REQUEST/RESPONSE (Try=1/365.875932ms, OpTime=675.77128ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2Fcoco_caption%2Ftest.img.tsv
+   X-Ms-Request-Id: [ca135eaf-401e-0048-4c3f-29b0ac000000]
+
+2023/12/07 19:02:58 ==> REQUEST/RESPONSE (Try=1/297.048709ms, OpTime=686.446398ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2Fcoco_caption%2Ftest.img.tsv
+   X-Ms-Request-Id: [a51e2d14-301e-001f-073f-291e9f000000]
+
+2023/12/07 19:02:58 ==> REQUEST/RESPONSE (Try=1/383.368265ms, OpTime=691.938424ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2Fcoco_caption%2Ftest.img.tsv
+   X-Ms-Request-Id: [15dbc2b7-601e-0070-393f-29146c000000]
+
+2023/12/07 19:02:58 ==> REQUEST/RESPONSE (Try=1/382.414624ms, OpTime=700.307846ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2Fcoco_caption%2Ftest.img.tsv
+   X-Ms-Request-Id: [e41097c3-b01e-004c-413f-293dab000000]
+
+2023/12/07 19:02:58 ==> REQUEST/RESPONSE (Try=1/385.764274ms, OpTime=701.878576ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2Fcoco_caption%2Ftest.img.tsv
+   X-Ms-Request-Id: [973de447-001e-003b-543f-29e83f000000]
+
+2023/12/07 19:02:58 ==> REQUEST/RESPONSE (Try=1/308.983282ms, OpTime=702.196145ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2Fcoco_caption%2Ftest.img.tsv
+   X-Ms-Request-Id: [1fbd6eed-201e-002c-6b3f-294134000000]
+
+2023/12/07 19:02:58 ==> REQUEST/RESPONSE (Try=1/426.998521ms, OpTime=711.997394ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2Fcoco_caption%2Ftest.img.tsv
+   X-Ms-Request-Id: [d6ba4cca-801e-0025-4d3f-2904e7000000]
+
+2023/12/07 19:02:58 ==> REQUEST/RESPONSE (Try=1/406.333425ms, OpTime=714.962426ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2Fcoco_caption%2Ftest.img.tsv
+   X-Ms-Request-Id: [d0faf204-801e-0047-123f-29c6c0000000]
+
+2023/12/07 19:02:58 ==> REQUEST/RESPONSE (Try=1/347.637973ms, OpTime=728.911445ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2Fcoco_caption%2Ftest.img.tsv
+   X-Ms-Request-Id: [0e47e586-301e-0030-3a3f-291354000000]
+
+2023/12/07 19:02:58 ==> REQUEST/RESPONSE (Try=1/438.653688ms, OpTime=746.025298ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2Fcoco_caption%2Ftest.img.tsv
+   X-Ms-Request-Id: [8c7bc78b-701e-0053-683f-298eaf000000]
+
+2023/12/07 19:02:58 ==> REQUEST/RESPONSE (Try=1/446.795978ms, OpTime=758.569269ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2Fcoco_caption%2Ftest.img.tsv
+   X-Ms-Request-Id: [5f42854e-f01e-0000-253f-29ad9b000000]
+
+2023/12/07 19:02:58 ==> REQUEST/RESPONSE (Try=1/383.280131ms, OpTime=760.717523ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2Fcoco_caption%2Ftest.img.tsv
+   X-Ms-Request-Id: [365b4e27-a01e-0050-1a3f-296fcb000000]
+
+2023/12/07 19:02:58 ==> REQUEST/RESPONSE (Try=1/453.056365ms, OpTime=764.354356ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2Fcoco_caption%2Ftest.img.tsv
+   X-Ms-Request-Id: [06447241-801e-0078-3f3f-290e63000000]
+
+2023/12/07 19:02:58 ==> REQUEST/RESPONSE (Try=1/457.023259ms, OpTime=765.835886ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2Fcoco_caption%2Ftest.img.tsv
+   X-Ms-Request-Id: [0628f72e-d01e-005a-6c3f-29cb7c000000]
+
+2023/12/07 19:02:58 ==> REQUEST/RESPONSE (Try=1/456.571731ms, OpTime=769.732123ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2Fcoco_caption%2Ftest.img.tsv
+   X-Ms-Request-Id: [e3d7c38d-101e-0045-2c3f-297878000000]
+
+2023/12/07 19:02:58 ==> REQUEST/RESPONSE (Try=1/401.62165ms, OpTime=795.096871ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2Fcoco_caption%2Ftest.img.tsv
+   X-Ms-Request-Id: [97221fd6-301e-006d-183f-2919d0000000]
+
+2023/12/07 19:02:58 ==> REQUEST/RESPONSE (Try=1/486.496683ms, OpTime=796.874357ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2Fcoco_caption%2Ftest.img.tsv
+   X-Ms-Request-Id: [2da17356-701e-006c-073f-29460c000000]
+
+2023/12/07 19:02:58 ==> REQUEST/RESPONSE (Try=1/491.655473ms, OpTime=806.337756ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2Fcoco_caption%2Ftest.img.tsv
+   X-Ms-Request-Id: [e3d7c38e-101e-0045-2d3f-297878000000]
+
+2023/12/07 19:02:58 ==> REQUEST/RESPONSE (Try=1/451.015603ms, OpTime=843.434768ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2Fcoco_caption%2Ftest.img.tsv
+   X-Ms-Request-Id: [973de470-001e-003b-7d3f-29e83f000000]
+
+2023/12/07 19:02:58 ==> REQUEST/RESPONSE (Try=1/457.221879ms, OpTime=845.001283ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2Fcoco_caption%2Ftest.img.tsv
+   X-Ms-Request-Id: [728ce2bb-901e-0006-553f-299e24000000]
+
+2023/12/07 19:02:58 ==> REQUEST/RESPONSE (Try=1/486.560854ms, OpTime=878.317738ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2Fcoco_caption%2Ftest.img.tsv
+   X-Ms-Request-Id: [da15797a-401e-0058-3c3f-2975c4000000]
+
+2023/12/07 19:02:58 ==> REQUEST/RESPONSE (Try=1/524.066058ms, OpTime=917.344702ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2Fcoco_caption%2Ftest.img.tsv
+   X-Ms-Request-Id: [fc9bf146-801e-001a-0d3f-29cc44000000]
+
+2023/12/07 19:02:58 ==> REQUEST/RESPONSE (Try=1/530.424734ms, OpTime=925.104966ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2Fcoco_caption%2Ftest.img.tsv
+   X-Ms-Request-Id: [da15797d-401e-0058-3e3f-2975c4000000]
+
+2023/12/07 19:02:58 ==> REQUEST/RESPONSE (Try=1/573.122743ms, OpTime=964.647368ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2Fcoco_caption%2Ftest.img.tsv
+   X-Ms-Request-Id: [c70814b0-b01e-0073-2c3f-29f508000000]
+
+2023/12/07 19:02:58 ==> REQUEST/RESPONSE (Try=1/637.431948ms, OpTime=1.028220691s) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2Fcoco_caption%2Ftest.img.tsv
+   X-Ms-Request-Id: [97221fd2-301e-006d-153f-2919d0000000]
+
+2023/12/07 19:02:58 ==> REQUEST/RESPONSE (Try=1/730.814ms, OpTime=1.122606421s) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2Fcoco_caption%2Ftest.img.tsv
+   X-Ms-Request-Id: [52382478-501e-006b-503f-292a6f000000]
+
+2023/12/07 19:02:59 PERF: primary performance constraint is Unknown. States: C:  0, R:  0, W:  0, F:  0, H:  0, B: 86, S:  0, P: 18, Q:  0, D:  0, E:  0, T: 104, GRs: 128
+2023/12/07 19:02:59 17.1 %, 0 Done, 0 Failed, 1 Pending, 0 Skipped, 1 Total, 2-sec Throughput (Mb/s): 3480.596
+2023/12/07 19:03:01 PERF: primary performance constraint is Unknown. States: C:  0, R:  0, W:  0, F:  0, H:  0, B:  6, S:  0, P: 97, Q:  0, D:  0, E:  0, T: 103, GRs: 128
+2023/12/07 19:03:01 94.2 %, 0 Done, 0 Failed, 1 Pending, 0 Skipped, 1 Total, 
+2023/12/07 19:03:03 PERF: primary performance constraint is Unknown. States: C:  0, R:  0, W:  0, F:  0, H:  0, B:  1, S:  0, P: 22, Q:  0, D:  0, E:  0, T: 23, GRs: 128
+2023/12/07 19:03:03 99.0 %, 0 Done, 0 Failed, 1 Pending, 0 Skipped, 1 Total, 
+2023/12/07 19:03:04 INFO: [P#0-T#0] Error reading body of reply. Next try (if any) will be Try=2. Will retry. Error: read tcp 10.64.2.163:40956->20.60.20.68:443: use of closed network connection. Offset: 685883392  Count: 1982464 URL: https://publicgit.blob.core.windows.net/data/tsv_data/coco_caption/test.img.tsv
+2023/12/07 19:03:04 ==> REQUEST/RESPONSE (Try=1/107.548739ms, OpTime=107.676943ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/tsv_data%2Fcoco_caption%2Ftest.img.tsv
+   X-Ms-Request-Id: [e4f5a1eb-a01e-006f-5340-29a768000000]
+
+2023/12/07 19:03:05 WARN: [P#0-T#0] https://publicgit.blob.core.windows.net/data/tsv_data/coco_caption/test.img.tsv no MD5 was stored in the Blob/File service against this file. So the downloaded data cannot be MD5-validated. Dst: /tmp/publicgit/data/coco_caption/test.img.tsv
+2023/12/07 19:03:05 INFO: [P#0-T#0] DOWNLOADSUCCESSFUL: /tmp/publicgit/data/coco_caption/test.img.tsv
+2023/12/07 19:03:05 JobID=07dd3dc7-7ffd-a647-4d0f-ccb9189151ac, Part#=0, TransfersDone=1 of 1
+2023/12/07 19:03:05 all parts of entire Job 07dd3dc7-7ffd-a647-4d0f-ccb9189151ac successfully completed, cancelled or paused
+2023/12/07 19:03:05 is part of Job which 1 total number of parts done 
+2023/12/07 19:03:05 PERF: primary performance constraint is Unknown. States: C:  0, R:  0, W:  0, F:  0, H:  0, B:  0, S:  0, P:  0, Q:  0, D:  0, E:  0, T:  0, GRs: 128
+2023/12/07 19:03:05 100.0 %, 1 Done, 0 Failed, 0 Pending, 0 Skipped, 1 Total, 
+2023/12/07 19:03:05 
+
+Diagnostic stats:
+IOPS: 0
+End-to-end ms per request: 0
+Network Errors: 0.00%
+Server Busy: 0.00%
+
+
+Job 07dd3dc7-7ffd-a647-4d0f-ccb9189151ac summary
+Elapsed Time (Minutes): 0.1334
+Number of File Transfers: 1
+Number of Folder Property Transfers: 0
+Number of Symlink Transfers: 0
+Total Number of Transfers: 1
+Number of File Transfers Completed: 1
+Number of Folder Transfers Completed: 0
+Number of File Transfers Failed: 0
+Number of Folder Transfers Failed: 0
+Number of File Transfers Skipped: 0
+Number of Folder Transfers Skipped: 0
+TotalBytesTransferred: 870589040
+Final Job Status: Completed
+
+2023/12/07 19:03:05 Closing Log

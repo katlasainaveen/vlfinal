@@ -1,0 +1,280 @@
+2023/12/07 19:02:43 AzcopyVersion  10.22.0
+2023/12/07 19:02:43 OS-Environment  linux
+2023/12/07 19:02:43 OS-Architecture  amd64
+2023/12/07 19:02:43 Log times are in UTC. Local time is 7 Dec 2023 19:02:43
+2023/12/07 19:02:43 ISO 8601 START TIME: to copy files that changed before or after this job started, use the parameter --include-before=2023-12-07T19:02:38Z or --include-after=2023-12-07T19:02:38Z
+2023/12/07 19:02:44 Any empty folders will not be processed, because source and/or destination doesn't have full folder support
+2023/12/07 19:02:44 Job-Command cp https://publicgit.blob.core.windows.net/data/output/GIT_BASE_COCO/snapshot/model.pt /tmp/publicgit/output/GIT_BASE_COCO/snapshot/model.pt 
+2023/12/07 19:02:44 Number of CPUs: 8
+2023/12/07 19:02:44 Max file buffer RAM 4.000 GB
+2023/12/07 19:02:44 Max concurrent network operations: 128 (Based on number of CPUs. Set AZCOPY_CONCURRENCY_VALUE environment variable to override)
+2023/12/07 19:02:44 Check CPU usage when dynamically tuning concurrency: true (Based on hard-coded default. Set AZCOPY_TUNE_TO_CPU environment variable to true or false override)
+2023/12/07 19:02:44 Max concurrent transfer initiation routines: 64 (Based on hard-coded default. Set AZCOPY_CONCURRENT_FILES environment variable to override)
+2023/12/07 19:02:44 Max enumeration routines: 16 (Based on hard-coded default. Set AZCOPY_CONCURRENT_SCAN environment variable to override)
+2023/12/07 19:02:44 Parallelize getting file properties (file.Stat): false (Based on AZCOPY_PARALLEL_STAT_FILES environment variable)
+2023/12/07 19:02:44 Max open files when downloading: 1048047 (auto-computed)
+2023/12/07 19:02:44 Final job part has been created
+2023/12/07 19:02:44 Final job part has been scheduled
+2023/12/07 19:02:45 ==> REQUEST/RESPONSE (Try=1/100.301895ms, OpTime=373.123102ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_COCO%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [477d7822-d01e-004a-313f-290e14000000]
+
+2023/12/07 19:02:45 ==> REQUEST/RESPONSE (Try=1/110.886388ms, OpTime=376.132167ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_COCO%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [7acff6e5-e01e-0051-3a3f-293017000000]
+
+2023/12/07 19:02:45 ==> REQUEST/RESPONSE (Try=1/118.826984ms, OpTime=380.782305ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_COCO%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [f022d714-b01e-003e-563f-293ae4000000]
+
+2023/12/07 19:02:45 ==> REQUEST/RESPONSE (Try=1/117.956292ms, OpTime=381.285655ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_COCO%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [e20e48e4-c01e-000b-163f-2956f0000000]
+
+2023/12/07 19:02:45 ==> REQUEST/RESPONSE (Try=1/119.460056ms, OpTime=381.714875ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_COCO%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [22d0e126-a01e-001d-6e3f-29a027000000]
+
+2023/12/07 19:02:45 ==> REQUEST/RESPONSE (Try=1/123.675885ms, OpTime=387.824227ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_COCO%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [2975c3e0-a01e-000d-7e3f-29654f000000]
+
+2023/12/07 19:02:45 ==> REQUEST/RESPONSE (Try=1/121.494681ms, OpTime=389.66204ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_COCO%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [58a7ce21-701e-0043-583f-294bc7000000]
+
+2023/12/07 19:02:45 ==> REQUEST/RESPONSE (Try=1/111.29165ms, OpTime=391.403085ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_COCO%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [724ab00c-201e-004e-013f-298313000000]
+
+2023/12/07 19:02:45 ==> REQUEST/RESPONSE (Try=1/129.820716ms, OpTime=393.312827ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_COCO%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [504df4e2-401e-003a-2e3f-29b7e3000000]
+
+2023/12/07 19:02:45 ==> REQUEST/RESPONSE (Try=1/126.525124ms, OpTime=394.280082ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_COCO%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [e6387785-001e-0004-1d3f-29209c000000]
+
+2023/12/07 19:02:45 ==> REQUEST/RESPONSE (Try=1/123.589314ms, OpTime=403.626931ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_COCO%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [0a2b9dcc-f01e-0062-3b3f-296fbc000000]
+
+2023/12/07 19:02:45 ==> REQUEST/RESPONSE (Try=1/123.306923ms, OpTime=403.634497ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_COCO%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [2a174690-401e-0067-6e3f-29bd67000000]
+
+2023/12/07 19:02:45 ==> REQUEST/RESPONSE (Try=1/143.938536ms, OpTime=408.083554ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_COCO%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [f7deb770-101e-006a-423f-2975b3000000]
+
+2023/12/07 19:02:45 ==> REQUEST/RESPONSE (Try=1/126.456546ms, OpTime=411.145348ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_COCO%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [c64edd40-001e-002b-433f-292d57000000]
+
+2023/12/07 19:02:45 ==> REQUEST/RESPONSE (Try=1/142.719676ms, OpTime=413.743307ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_COCO%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [1fbd5124-201e-002c-2b3f-294134000000]
+
+2023/12/07 19:02:45 ==> REQUEST/RESPONSE (Try=1/139.918538ms, OpTime=415.803437ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_COCO%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [fe9d55f6-f01e-003f-283f-296538000000]
+
+2023/12/07 19:02:45 ==> REQUEST/RESPONSE (Try=1/141.115302ms, OpTime=415.248896ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_COCO%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [f33c9ecb-b01e-0001-7c3f-29f247000000]
+
+2023/12/07 19:02:45 ==> REQUEST/RESPONSE (Try=1/158.822823ms, OpTime=420.507528ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_COCO%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [aa98f93a-e01e-000c-713f-293a93000000]
+
+2023/12/07 19:02:45 ==> REQUEST/RESPONSE (Try=1/155.11493ms, OpTime=424.555116ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_COCO%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [d9aaa43a-801e-0035-463f-29c18f000000]
+
+2023/12/07 19:02:45 ==> REQUEST/RESPONSE (Try=1/142.140596ms, OpTime=428.862843ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_COCO%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [68e1ad11-b01e-002e-693f-29ff8c000000]
+
+2023/12/07 19:02:45 ==> REQUEST/RESPONSE (Try=1/151.180857ms, OpTime=428.215727ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_COCO%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [299fa127-601e-0012-053f-29d64b000000]
+
+2023/12/07 19:02:45 ==> REQUEST/RESPONSE (Try=1/142.843013ms, OpTime=429.623432ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_COCO%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [0a2b9dd3-f01e-0062-403f-296fbc000000]
+
+2023/12/07 19:02:45 ==> REQUEST/RESPONSE (Try=1/147.781837ms, OpTime=434.603236ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_COCO%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [aae4508b-301e-0052-313f-29d173000000]
+
+2023/12/07 19:02:45 ==> REQUEST/RESPONSE (Try=1/158.303287ms, OpTime=441.842939ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_COCO%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [3803b9d1-701e-001e-523f-294143000000]
+
+2023/12/07 19:02:45 ==> REQUEST/RESPONSE (Try=1/195.891625ms, OpTime=454.792469ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_COCO%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [2975c3d9-a01e-000d-793f-29654f000000]
+
+2023/12/07 19:02:45 ==> REQUEST/RESPONSE (Try=1/177.095395ms, OpTime=459.156935ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_COCO%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [973dc2ec-001e-003b-0e3f-29e83f000000]
+
+2023/12/07 19:02:45 ==> REQUEST/RESPONSE (Try=1/190.475677ms, OpTime=460.855873ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_COCO%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [68e1ad00-b01e-002e-5e3f-29ff8c000000]
+
+2023/12/07 19:02:45 ==> REQUEST/RESPONSE (Try=1/207.62196ms, OpTime=471.418085ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_COCO%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [5f4269e2-f01e-0000-7b3f-29ad9b000000]
+
+2023/12/07 19:02:45 ==> REQUEST/RESPONSE (Try=1/199.196867ms, OpTime=471.509473ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_COCO%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [aae4507d-301e-0052-253f-29d173000000]
+
+2023/12/07 19:02:45 ==> REQUEST/RESPONSE (Try=1/195.4013ms, OpTime=472.811345ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_COCO%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [064456bd-801e-0078-4f3f-290e63000000]
+
+2023/12/07 19:02:45 ==> REQUEST/RESPONSE (Try=1/212.812727ms, OpTime=479.271ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_COCO%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [49578bd4-b01e-0063-173f-293060000000]
+
+2023/12/07 19:02:45 ==> REQUEST/RESPONSE (Try=1/221.776889ms, OpTime=484.685989ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_COCO%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [c707f341-b01e-0073-0e3f-29f508000000]
+
+2023/12/07 19:02:45 ==> REQUEST/RESPONSE (Try=1/223.392786ms, OpTime=490.993569ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_COCO%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [58a7ce20-701e-0043-573f-294bc7000000]
+
+2023/12/07 19:02:45 ==> REQUEST/RESPONSE (Try=1/234.495435ms, OpTime=501.875349ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_COCO%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [af6ca4ff-c01e-0056-3f3f-295c74000000]
+
+2023/12/07 19:02:45 ==> REQUEST/RESPONSE (Try=1/238.013614ms, OpTime=506.280251ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_COCO%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [15dba3bb-601e-0070-333f-29146c000000]
+
+2023/12/07 19:02:45 ==> REQUEST/RESPONSE (Try=1/236.578811ms, OpTime=507.557619ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_COCO%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [2bf01806-d01e-0038-063f-29095b000000]
+
+2023/12/07 19:02:45 ==> REQUEST/RESPONSE (Try=1/241.338019ms, OpTime=514.763429ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_COCO%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [064456b9-801e-0078-4c3f-290e63000000]
+
+2023/12/07 19:02:45 ==> REQUEST/RESPONSE (Try=1/239.730475ms, OpTime=518.399485ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_COCO%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [2bf0180a-d01e-0038-073f-29095b000000]
+
+2023/12/07 19:02:45 ==> REQUEST/RESPONSE (Try=1/249.089928ms, OpTime=523.603483ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_COCO%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [c64edd38-001e-002b-3d3f-292d57000000]
+
+2023/12/07 19:02:45 ==> REQUEST/RESPONSE (Try=1/248.585421ms, OpTime=526.750474ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_COCO%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [3b95be94-c01e-0024-313f-295b3b000000]
+
+2023/12/07 19:02:45 ==> REQUEST/RESPONSE (Try=1/249.001543ms, OpTime=536.025263ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_COCO%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [ca133d97-401e-0048-303f-29b0ac000000]
+
+2023/12/07 19:02:45 ==> REQUEST/RESPONSE (Try=1/248.392971ms, OpTime=537.187979ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_COCO%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [2975c3ec-a01e-000d-093f-29654f000000]
+
+2023/12/07 19:02:45 ==> REQUEST/RESPONSE (Try=1/254.4648ms, OpTime=540.473746ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_COCO%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [a51e09e0-301e-001f-2a3f-291e9f000000]
+
+2023/12/07 19:02:45 ==> REQUEST/RESPONSE (Try=1/260.73782ms, OpTime=543.151606ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_COCO%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [8c7bad9e-701e-0053-5d3f-298eaf000000]
+
+2023/12/07 19:02:45 ==> REQUEST/RESPONSE (Try=1/258.865863ms, OpTime=542.376653ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_COCO%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [1ff6a353-401e-0005-503f-297f40000000]
+
+2023/12/07 19:02:45 ==> REQUEST/RESPONSE (Try=1/254.310979ms, OpTime=545.283272ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_COCO%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [babb8bdc-501e-0054-4e3f-29e2cc000000]
+
+2023/12/07 19:02:45 ==> REQUEST/RESPONSE (Try=1/259.204373ms, OpTime=546.56602ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_COCO%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [39911a98-201e-0003-503f-294cff000000]
+
+2023/12/07 19:02:45 ==> REQUEST/RESPONSE (Try=1/289.588235ms, OpTime=564.200153ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_COCO%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [58a7ce27-701e-0043-5b3f-294bc7000000]
+
+2023/12/07 19:02:45 ==> REQUEST/RESPONSE (Try=1/302.068094ms, OpTime=574.565061ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_COCO%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [35897e78-401e-002a-803f-29728b000000]
+
+2023/12/07 19:02:45 ==> REQUEST/RESPONSE (Try=1/304.288714ms, OpTime=579.366941ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_COCO%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [78933646-701e-0031-3d3f-294c88000000]
+
+2023/12/07 19:02:45 ==> REQUEST/RESPONSE (Try=1/341.510631ms, OpTime=616.81598ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_COCO%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [b08a4606-a01e-0040-2a3f-29aaa3000000]
+
+2023/12/07 19:02:45 ==> REQUEST/RESPONSE (Try=1/344.543379ms, OpTime=624.968795ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_COCO%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [042e1537-801e-0068-693f-29cb0b000000]
+
+2023/12/07 19:02:45 ==> REQUEST/RESPONSE (Try=1/346.589976ms, OpTime=629.066724ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_COCO%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [f9cde09c-601e-0060-473f-29d104000000]
+
+2023/12/07 19:02:45 ==> REQUEST/RESPONSE (Try=1/350.142745ms, OpTime=634.076527ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_COCO%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [3912628e-c01e-001b-543f-299398000000]
+
+2023/12/07 19:02:45 ==> REQUEST/RESPONSE (Try=1/419.610162ms, OpTime=707.943175ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_COCO%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [eef75504-e01e-006e-043f-29f8b4000000]
+
+2023/12/07 19:02:46 PERF: primary performance constraint is Unknown. States: C:  0, R:  0, W:  0, F:  0, H:  0, B: 23, S:  0, P: 32, Q:  0, D:  0, E:  0, T: 55, GRs: 128
+2023/12/07 19:02:46 58.1 %, 0 Done, 0 Failed, 1 Pending, 0 Skipped, 1 Total, 2-sec Throughput (Mb/s): 1842.0127
+2023/12/07 19:02:48 PERF: primary performance constraint is Unknown. States: C:  0, R:  0, W:  0, F:  0, H:  0, B:  1, S:  0, P: 54, Q:  0, D:  0, E:  0, T: 55, GRs: 128
+2023/12/07 19:02:48 98.2 %, 0 Done, 0 Failed, 1 Pending, 0 Skipped, 1 Total, 
+2023/12/07 19:02:50 INFO: [P#0-T#0] Error reading body of reply. Next try (if any) will be Try=2. Will retry. Error: read tcp 10.64.2.163:47722->20.60.20.68:443: use of closed network connection. Offset: 2817401  Count: 5571207 URL: https://publicgit.blob.core.windows.net/data/output/GIT_BASE_COCO/snapshot/model.pt
+2023/12/07 19:02:50 ==> REQUEST/RESPONSE (Try=1/149.06557ms, OpTime=149.12335ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_COCO%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [2975d0f1-a01e-000d-603f-29654f000000]
+
+2023/12/07 19:02:50 PERF: primary performance constraint is Unknown. States: C:  0, R:  0, W:  0, F:  0, H:  0, B:  1, S:  0, P: 54, Q:  0, D:  0, E:  0, T: 55, GRs: 128
+2023/12/07 19:02:50 98.2 %, 0 Done, 0 Failed, 1 Pending, 0 Skipped, 1 Total, 
+2023/12/07 19:02:52 WARN: [P#0-T#0] https://publicgit.blob.core.windows.net/data/output/GIT_BASE_COCO/snapshot/model.pt no MD5 was stored in the Blob/File service against this file. So the downloaded data cannot be MD5-validated. Dst: /tmp/publicgit/output/GIT_BASE_COCO/snapshot/model.pt
+2023/12/07 19:02:52 INFO: [P#0-T#0] DOWNLOADSUCCESSFUL: /tmp/publicgit/output/GIT_BASE_COCO/snapshot/model.pt
+2023/12/07 19:02:52 JobID=51e05445-e866-b04a-4d98-30be7bb93e9f, Part#=0, TransfersDone=1 of 1
+2023/12/07 19:02:52 all parts of entire Job 51e05445-e866-b04a-4d98-30be7bb93e9f successfully completed, cancelled or paused
+2023/12/07 19:02:52 is part of Job which 1 total number of parts done 
+2023/12/07 19:02:52 PERF: primary performance constraint is Unknown. States: C:  0, R:  0, W:  0, F:  0, H:  0, B:  0, S:  0, P:  0, Q:  0, D:  0, E:  0, T:  0, GRs: 128
+2023/12/07 19:02:52 100.0 %, 1 Done, 0 Failed, 0 Pending, 0 Skipped, 1 Total, 
+2023/12/07 19:02:52 
+
+Diagnostic stats:
+IOPS: 0
+End-to-end ms per request: 0
+Network Errors: 0.00%
+Server Busy: 0.00%
+
+
+Job 51e05445-e866-b04a-4d98-30be7bb93e9f summary
+Elapsed Time (Minutes): 0.1334
+Number of File Transfers: 1
+Number of Folder Property Transfers: 0
+Number of Symlink Transfers: 0
+Total Number of Transfers: 1
+Number of File Transfers Completed: 1
+Number of Folder Transfers Completed: 0
+Number of File Transfers Failed: 0
+Number of Folder Transfers Failed: 0
+Number of File Transfers Skipped: 0
+Number of Folder Transfers Skipped: 0
+TotalBytesTransferred: 460787351
+Final Job Status: Completed
+
+2023/12/07 19:02:52 Closing Log

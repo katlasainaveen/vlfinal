@@ -1,0 +1,277 @@
+2023/12/08 13:54:43 AzcopyVersion  10.22.0
+2023/12/08 13:54:43 OS-Environment  linux
+2023/12/08 13:54:43 OS-Architecture  amd64
+2023/12/08 13:54:43 Log times are in UTC. Local time is 8 Dec 2023 13:54:43
+2023/12/08 13:54:43 ISO 8601 START TIME: to copy files that changed before or after this job started, use the parameter --include-before=2023-12-08T13:54:38Z or --include-after=2023-12-08T13:54:38Z
+2023/12/08 13:54:44 Any empty folders will not be processed, because source and/or destination doesn't have full folder support
+2023/12/08 13:54:44 Job-Command cp https://publicgit.blob.core.windows.net/data/output/GIT_BASE_VQAv2/snapshot/model.pt /tmp/publicgit/output/GIT_BASE_VQAv2/snapshot/model.pt 
+2023/12/08 13:54:44 Number of CPUs: 8
+2023/12/08 13:54:44 Max file buffer RAM 4.000 GB
+2023/12/08 13:54:44 Max concurrent network operations: 128 (Based on number of CPUs. Set AZCOPY_CONCURRENCY_VALUE environment variable to override)
+2023/12/08 13:54:44 Check CPU usage when dynamically tuning concurrency: true (Based on hard-coded default. Set AZCOPY_TUNE_TO_CPU environment variable to true or false override)
+2023/12/08 13:54:44 Max concurrent transfer initiation routines: 64 (Based on hard-coded default. Set AZCOPY_CONCURRENT_FILES environment variable to override)
+2023/12/08 13:54:44 Max enumeration routines: 16 (Based on hard-coded default. Set AZCOPY_CONCURRENT_SCAN environment variable to override)
+2023/12/08 13:54:44 Parallelize getting file properties (file.Stat): false (Based on AZCOPY_PARALLEL_STAT_FILES environment variable)
+2023/12/08 13:54:44 Max open files when downloading: 1048047 (auto-computed)
+2023/12/08 13:54:44 Final job part has been created
+2023/12/08 13:54:44 Final job part has been scheduled
+2023/12/08 13:54:45 ==> REQUEST/RESPONSE (Try=1/125.77584ms, OpTime=407.412437ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_VQAv2%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [5a972d5e-c01e-0034-33de-299e53000000]
+
+2023/12/08 13:54:45 ==> REQUEST/RESPONSE (Try=1/133.188513ms, OpTime=412.118805ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_VQAv2%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [95581727-401e-003a-6ede-29b7e3000000]
+
+2023/12/08 13:54:45 ==> REQUEST/RESPONSE (Try=1/116.077565ms, OpTime=414.641782ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_VQAv2%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [5537134e-401e-002a-23de-29728b000000]
+
+2023/12/08 13:54:45 ==> REQUEST/RESPONSE (Try=1/131.89597ms, OpTime=416.14816ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_VQAv2%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [1ce1392e-101e-006a-0dde-2975b3000000]
+
+2023/12/08 13:54:45 ==> REQUEST/RESPONSE (Try=1/120.463306ms, OpTime=426.585828ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_VQAv2%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [b5af97a7-f01e-0010-65de-2968f3000000]
+
+2023/12/08 13:54:45 ==> REQUEST/RESPONSE (Try=1/122.090786ms, OpTime=429.450154ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_VQAv2%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [b5d0443e-001e-003b-30de-29e83f000000]
+
+2023/12/08 13:54:45 ==> REQUEST/RESPONSE (Try=1/120.21743ms, OpTime=429.199964ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_VQAv2%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [5026ed2b-201e-0071-76de-294bb0000000]
+
+2023/12/08 13:54:45 ==> REQUEST/RESPONSE (Try=1/148.036219ms, OpTime=431.243964ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_VQAv2%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [43cb8b0a-a01e-000d-3fde-29654f000000]
+
+2023/12/08 13:54:45 ==> REQUEST/RESPONSE (Try=1/154.004953ms, OpTime=448.232985ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_VQAv2%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [3b35f061-c01e-0069-20de-2994d7000000]
+
+2023/12/08 13:54:45 ==> REQUEST/RESPONSE (Try=1/183.670466ms, OpTime=460.706928ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_VQAv2%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [dd73857e-901e-0039-38de-295687000000]
+
+2023/12/08 13:54:45 ==> REQUEST/RESPONSE (Try=1/166.843579ms, OpTime=463.412122ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_VQAv2%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [71639d57-101e-0045-25de-297878000000]
+
+2023/12/08 13:54:45 ==> REQUEST/RESPONSE (Try=1/178.141697ms, OpTime=467.709751ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_VQAv2%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [cd3bd24f-601e-0012-6bde-29d64b000000]
+
+2023/12/08 13:54:45 ==> REQUEST/RESPONSE (Try=1/193.47686ms, OpTime=470.365119ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_VQAv2%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [812b7181-201e-002c-04de-294134000000]
+
+2023/12/08 13:54:45 ==> REQUEST/RESPONSE (Try=1/180.462768ms, OpTime=471.862788ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_VQAv2%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [5537134a-401e-002a-21de-29728b000000]
+
+2023/12/08 13:54:45 ==> REQUEST/RESPONSE (Try=1/169.057021ms, OpTime=472.534391ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_VQAv2%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [1663f17a-a01e-006f-5bde-29a768000000]
+
+2023/12/08 13:54:45 ==> REQUEST/RESPONSE (Try=1/170.64279ms, OpTime=472.625977ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_VQAv2%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [daf2a691-101e-0027-75de-29ba5f000000]
+
+2023/12/08 13:54:45 ==> REQUEST/RESPONSE (Try=1/176.538721ms, OpTime=474.024449ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_VQAv2%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [b5af97a3-f01e-0010-63de-2968f3000000]
+
+2023/12/08 13:54:45 ==> REQUEST/RESPONSE (Try=1/183.565601ms, OpTime=475.732666ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_VQAv2%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [a646f730-001e-0004-4dde-29209c000000]
+
+2023/12/08 13:54:45 ==> REQUEST/RESPONSE (Try=1/199.979306ms, OpTime=482.618613ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_VQAv2%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [ef3aa73f-701e-0053-55de-298eaf000000]
+
+2023/12/08 13:54:45 ==> REQUEST/RESPONSE (Try=1/213.556118ms, OpTime=503.034065ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_VQAv2%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [3c78ed99-a01e-0032-07de-29adec000000]
+
+2023/12/08 13:54:45 ==> REQUEST/RESPONSE (Try=1/230.607741ms, OpTime=509.292904ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_VQAv2%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [4f80599b-001e-0059-69de-292a18000000]
+
+2023/12/08 13:54:45 ==> REQUEST/RESPONSE (Try=1/201.366563ms, OpTime=508.444266ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_VQAv2%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [cf654751-401e-0005-3dde-297f40000000]
+
+2023/12/08 13:54:45 ==> REQUEST/RESPONSE (Try=1/200.960259ms, OpTime=511.694512ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_VQAv2%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [699a465b-001e-0076-1ede-2927d3000000]
+
+2023/12/08 13:54:45 ==> REQUEST/RESPONSE (Try=1/215.560142ms, OpTime=516.480713ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_VQAv2%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [9558172e-401e-003a-73de-29b7e3000000]
+
+2023/12/08 13:54:45 ==> REQUEST/RESPONSE (Try=1/236.154925ms, OpTime=516.739285ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_VQAv2%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [1f48b95c-701e-0043-71de-294bc7000000]
+
+2023/12/08 13:54:45 ==> REQUEST/RESPONSE (Try=1/227.12192ms, OpTime=518.837133ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_VQAv2%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [7e5b6412-601e-0070-20de-29146c000000]
+
+2023/12/08 13:54:45 ==> REQUEST/RESPONSE (Try=1/207.444585ms, OpTime=520.569767ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_VQAv2%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [41ac6a41-401e-0048-4cde-29b0ac000000]
+
+2023/12/08 13:54:45 ==> REQUEST/RESPONSE (Try=1/228.565244ms, OpTime=524.979197ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_VQAv2%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [ba660d21-301e-000f-28de-29dbf7000000]
+
+2023/12/08 13:54:45 ==> REQUEST/RESPONSE (Try=1/226.339394ms, OpTime=528.253244ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_VQAv2%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [b677f446-901e-0074-6fde-29996b000000]
+
+2023/12/08 13:54:45 ==> REQUEST/RESPONSE (Try=1/231.09876ms, OpTime=528.819447ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_VQAv2%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [39d5bb81-d01e-0065-5bde-2903df000000]
+
+2023/12/08 13:54:45 ==> REQUEST/RESPONSE (Try=1/223.758016ms, OpTime=529.792097ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_VQAv2%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [692df5fa-b01e-005c-62de-29f8c3000000]
+
+2023/12/08 13:54:45 ==> REQUEST/RESPONSE (Try=1/265.57564ms, OpTime=576.635876ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_VQAv2%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [6ad0c6aa-501e-006b-0cde-292a6f000000]
+
+2023/12/08 13:54:45 ==> REQUEST/RESPONSE (Try=1/265.848035ms, OpTime=586.429706ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_VQAv2%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [7fcc197b-301e-0052-1ade-29d173000000]
+
+2023/12/08 13:54:45 ==> REQUEST/RESPONSE (Try=1/286.996814ms, OpTime=591.264867ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_VQAv2%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [692df5f8-b01e-005c-61de-29f8c3000000]
+
+2023/12/08 13:54:45 ==> REQUEST/RESPONSE (Try=1/294.917511ms, OpTime=602.856068ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_VQAv2%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [7d339367-d01e-005a-1bde-29cb7c000000]
+
+2023/12/08 13:54:45 ==> REQUEST/RESPONSE (Try=1/289.165179ms, OpTime=602.938206ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_VQAv2%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [fab9cd35-f01e-005d-57de-29a71f000000]
+
+2023/12/08 13:54:45 ==> REQUEST/RESPONSE (Try=1/300.553058ms, OpTime=608.130286ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_VQAv2%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [e06be292-501e-0026-0bde-29e583000000]
+
+2023/12/08 13:54:45 ==> REQUEST/RESPONSE (Try=1/312.53167ms, OpTime=623.459617ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_VQAv2%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [5e4cda80-c01e-0056-02de-295c74000000]
+
+2023/12/08 13:54:45 ==> REQUEST/RESPONSE (Try=1/340.897357ms, OpTime=628.714262ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_VQAv2%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [7557f5a5-201e-0003-76de-294cff000000]
+
+2023/12/08 13:54:45 ==> REQUEST/RESPONSE (Try=1/321.450938ms, OpTime=632.511268ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_VQAv2%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [8e936bb4-d01e-0075-18de-29c6b7000000]
+
+2023/12/08 13:54:45 ==> REQUEST/RESPONSE (Try=1/324.216154ms, OpTime=637.152265ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_VQAv2%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [e18b68d5-801e-0057-22de-2903a8000000]
+
+2023/12/08 13:54:45 ==> REQUEST/RESPONSE (Try=1/432.462971ms, OpTime=709.861578ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_VQAv2%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [309d4357-701e-0021-45de-2989e0000000]
+
+2023/12/08 13:54:45 ==> REQUEST/RESPONSE (Try=1/500.848158ms, OpTime=787.326183ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_VQAv2%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [5cb4dd3a-d01e-004a-33de-290e14000000]
+
+2023/12/08 13:54:45 ==> REQUEST/RESPONSE (Try=1/565.445025ms, OpTime=845.998565ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_VQAv2%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [dabcbf89-101e-0018-07de-2972fc000000]
+
+2023/12/08 13:54:45 ==> REQUEST/RESPONSE (Try=1/655.933885ms, OpTime=950.253196ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_VQAv2%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [55d6b00f-b01e-003e-57de-293ae4000000]
+
+2023/12/08 13:54:46 ==> REQUEST/RESPONSE (Try=1/701.73854ms, OpTime=991.534873ms) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_VQAv2%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [3c30349a-301e-0030-18de-291354000000]
+
+2023/12/08 13:54:46 ==> REQUEST/RESPONSE (Try=1/881.227553ms, OpTime=1.168397261s) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_VQAv2%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [830ef39f-301e-001f-0cde-291e9f000000]
+
+2023/12/08 13:54:46 ==> REQUEST/RESPONSE (Try=1/947.894215ms, OpTime=1.235281855s) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_VQAv2%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [5050bacd-701e-001e-17de-294143000000]
+
+2023/12/08 13:54:46 ==> REQUEST/RESPONSE (Try=1/1.031663559s, OpTime=1.320193064s) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_VQAv2%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [7fcc1968-301e-0052-0dde-29d173000000]
+
+2023/12/08 13:54:46 ==> REQUEST/RESPONSE (Try=1/1.23070977s, OpTime=1.518733429s) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_VQAv2%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [c70826d5-401e-0058-0ede-2975c4000000]
+
+2023/12/08 13:54:46 ==> REQUEST/RESPONSE (Try=1/1.282841258s, OpTime=1.583263453s) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_VQAv2%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [38996892-801e-000a-68de-29092c000000]
+
+2023/12/08 13:54:46 ==> REQUEST/RESPONSE (Try=1/1.37103661s, OpTime=1.673308291s) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_VQAv2%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [dbab6b01-b01e-002e-49de-29ff8c000000]
+
+2023/12/08 13:54:46 ==> REQUEST/RESPONSE (Try=1/1.443060733s, OpTime=1.750114478s) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_VQAv2%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [3b35f065-c01e-0069-22de-2994d7000000]
+
+2023/12/08 13:54:46 ==> REQUEST/RESPONSE (Try=1/1.582423783s, OpTime=1.889045909s) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_VQAv2%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [13dedf1e-501e-0019-40de-292d20000000]
+
+2023/12/08 13:54:46 PERF: primary performance constraint is Unknown. States: C:  0, R:  0, W:  0, F:  0, H:  2, B: 38, S:  0, P: 16, Q:  0, D:  0, E:  0, T: 56, GRs: 128
+2023/12/08 13:54:46 27.4 %, 0 Done, 0 Failed, 1 Pending, 0 Skipped, 1 Total, 2-sec Throughput (Mb/s): 1781.9974
+2023/12/08 13:54:47 ==> REQUEST/RESPONSE (Try=1/1.784065843s, OpTime=2.099540883s) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_VQAv2%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [df4de68c-601e-004f-15de-29dccf000000]
+
+2023/12/08 13:54:47 ==> REQUEST/RESPONSE (Try=1/1.929655218s, OpTime=2.24474573s) -- RESPONSE SUCCESSFULLY RECEIVED
+   GET https://publicgit.blob.core.windows.net/data/output%2FGIT_BASE_VQAv2%2Fsnapshot%2Fmodel.pt
+   X-Ms-Request-Id: [4ff49db2-901e-0016-7cde-295b4c000000]
+
+2023/12/08 13:54:48 PERF: primary performance constraint is Unknown. States: C:  0, R:  0, W:  0, F:  0, H:  0, B:  1, S:  0, P: 47, Q:  0, D:  0, E:  0, T: 48, GRs: 128
+2023/12/08 13:54:48 98.2 %, 0 Done, 0 Failed, 1 Pending, 0 Skipped, 1 Total, 2-sec Throughput (Mb/s): 67.0867
+2023/12/08 13:54:49 WARN: [P#0-T#0] https://publicgit.blob.core.windows.net/data/output/GIT_BASE_VQAv2/snapshot/model.pt no MD5 was stored in the Blob/File service against this file. So the downloaded data cannot be MD5-validated. Dst: /tmp/publicgit/output/GIT_BASE_VQAv2/snapshot/model.pt
+2023/12/08 13:54:49 INFO: [P#0-T#0] DOWNLOADSUCCESSFUL: /tmp/publicgit/output/GIT_BASE_VQAv2/snapshot/model.pt
+2023/12/08 13:54:49 JobID=5f71459e-2345-c844-4c12-2a001f1e905d, Part#=0, TransfersDone=1 of 1
+2023/12/08 13:54:49 all parts of entire Job 5f71459e-2345-c844-4c12-2a001f1e905d successfully completed, cancelled or paused
+2023/12/08 13:54:49 is part of Job which 1 total number of parts done 
+2023/12/08 13:54:50 PERF: primary performance constraint is Unknown. States: C:  0, R:  0, W:  0, F:  0, H:  0, B:  0, S:  0, P:  0, Q:  0, D:  0, E:  0, T:  0, GRs: 128
+2023/12/08 13:54:50 100.0 %, 1 Done, 0 Failed, 0 Pending, 0 Skipped, 1 Total, 
+2023/12/08 13:54:50 
+
+Diagnostic stats:
+IOPS: 0
+End-to-end ms per request: 0
+Network Errors: 0.00%
+Server Busy: 0.00%
+
+
+Job 5f71459e-2345-c844-4c12-2a001f1e905d summary
+Elapsed Time (Minutes): 0.1
+Number of File Transfers: 1
+Number of Folder Property Transfers: 0
+Number of Symlink Transfers: 0
+Total Number of Transfers: 1
+Number of File Transfers Completed: 1
+Number of Folder Transfers Completed: 0
+Number of File Transfers Failed: 0
+Number of Folder Transfers Failed: 0
+Number of File Transfers Skipped: 0
+Number of Folder Transfers Skipped: 0
+TotalBytesTransferred: 462409367
+Final Job Status: Completed
+
+2023/12/08 13:54:50 Closing Log
